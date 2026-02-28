@@ -1,4 +1,4 @@
 package com.eigenseermarcel.taskmanager.controller;
 
-public class HelloController {
+public class ProjectController {
 }
