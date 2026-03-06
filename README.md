@@ -53,7 +53,6 @@ Ein einfaches Fullstack-Task-Management-System mit:
 
 - Spring Boot (Backend)
 - H2-Datenbank
-- HTML/JavaScript (Frontend)
 - REST API
 
 Das Projekt erlaubt Nutzern:
@@ -62,8 +61,6 @@ Das Projekt erlaubt Nutzern:
 - hinzufügen, verändern und löschen von Aufgaben
 - Aufgaben Projekten zuordnen
 - Aufgaben als erledigt markieren
-
-Das Projekt zeigt Kenntnisse in Fullstack-Entwicklung und REST-Architektur.
 
 ---
 
