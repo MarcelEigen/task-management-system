@@ -64,3 +64,15 @@ Das Projekt erlaubt Nutzern:
 - Aufgaben als erledigt markieren
 
 Das Projekt zeigt Kenntnisse in Fullstack-Entwicklung und REST-Architektur.
+
+---
+
+## Current Focus
+
+- Adding Tests and cleaning up Code for Backend
+
+---
+
+## Next Step
+
+- Adding React Frontend with TypeScript
